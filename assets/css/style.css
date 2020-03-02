@@ -1,0 +1,101 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wraper{
+    width: 1200px;
+    display: block;
+    margin: auto;
+}
+
+.heading h1{
+    font-size: 50px;
+    margin-left: 20%;
+    margin-top: 200px;
+}
+.login-area{
+    margin-top: 50px;
+    padding: 70px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+.input-field input{
+    width: 1100px;
+    padding: 8px;
+    font-size: 21px;
+}
+.password input{
+    margin-top: 20px;
+}
+.buttton-cls{
+    margin-top: 20px;
+    
+}
+.buttton-cls a{
+    background-color: rgb(57, 156, 62);
+    color:white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px;
+    font-size: 22px;
+    list-style: none;
+    text-decoration: none;
+}
+/* ..index-02 html style...*/
+.transtiction-show-box-section{
+    margin-top: 10%;
+    
+}
+.deposit{
+    background-color: rgb(94, 79, 199);
+}
+.withdraw{
+    background-color: rgb(240, 150, 112);
+}
+.Ballance{
+    background-color: rgb(239, 155, 1);
+}
+.transtiction{
+    width: 310px;
+    height: 180px;
+    border-radius: 12px;
+    color: white;  
+    
+}
+.transtiction .head h4{
+    font-size: 28px;
+    margin: 20px 30px;
+}
+.dollar-class h1{
+    font-size: 60px;
+    margin: 40px 30px;
+}
+.transtiction-amount-section{
+    margin-top: 70px;
+}
+
+.section{   
+    padding: 70px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+h3{
+    font-weight: 700;
+    font-size: 30px;
+    color: black;
+}
+input{
+    width: 400px;
+    
+}
+.btn-class button{
+    margin-top: 20px;
+    width: 120px;
+    height: 45px;
+    background-color: rgb(57, 156, 62);
+    color:white;
+    border: none;
+    border-radius: 7px;
+    font-size: 22px;
+}
